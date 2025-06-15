@@ -506,7 +506,7 @@ img {
 
 /* Swiper class */
 .swiper-button-prev::after,
-.swiper-button-text::after{
+.swiper-button-next::after{
   content: '';
 }
 
