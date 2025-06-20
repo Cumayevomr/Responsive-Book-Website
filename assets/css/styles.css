@@ -226,7 +226,9 @@ img {
 }
 
 /* Active link */
-
+.active-link{
+  color: var(--first-color);
+}
 
 /*=============== SEARCH ===============*/
 .search{
@@ -784,7 +786,9 @@ img {
 }
 
 /* Show Scroll Up */
-
+.show-scroll{
+  bottom: 6rem;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
