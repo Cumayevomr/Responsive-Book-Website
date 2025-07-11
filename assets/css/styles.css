@@ -114,7 +114,9 @@ body.dark-theme{
 	Color changes in some parts of 
 	the website, in dark theme
 ==========*/
-
+.dark-theme .nav__menu{
+  box-shadow: 0 -8px 32px hsla(0, 0%, 0%, .4);
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
